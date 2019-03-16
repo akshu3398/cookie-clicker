@@ -1,4 +1,4 @@
-# Pong
+# cookie-clicker
 
 a classic retro style cookie-clicker game.
 
